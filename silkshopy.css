@@ -68,7 +68,9 @@ header::before {
 
 .silk {
     /* border: 2px solid black; */
-    font-size: 39px;
+    /* font-family: 'Abril Fatface', cursive; */
+    font-family: 'Pacifico', cursive;
+    font-size: 26px;
     padding: 10px 10px;
     background-color: rgb(229, 212, 235);
     color: rgb(211, 117, 29);
